@@ -1,6 +1,6 @@
 # xterm_demo
 
-A new Flutter project.
+Windows only
 
 ## Getting Started
 
