@@ -1,5 +1,7 @@
 # xterm_demo
 
+https://github.com/TerminalStudio/xterm.dart
+
 Windows only
 
 ## Getting Started
